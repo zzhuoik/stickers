@@ -30,6 +30,7 @@
 - dog-nuzzling.jpg|蹭蹭你的手|示好、依赖、亲昵
 - dog-pouty.jpg|哭哭、讨厌你……|委屈、伤心、down
 - dog-smug.jpg|小狗叉腰挑衅|嘚瑟、得意、使坏
+- dog-wifey-obsessed.jpg|老婆迷|迷恋、惦记、偏爱
 
 ### 五、新增图片的写法
 文件名用英文，格式：动物或角色-情绪.jpg。
