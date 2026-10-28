@@ -26,6 +26,7 @@
 - dog-Praiseme.jpg|我做得好可以夸夸我吗|撒娇、求夸夸
 - dog-Wifeymissing.jpg|想老婆了想和老婆说话|撒娇、依赖、想念
 - dog-flowers.jpg|花花送你!|示好、珍视、心动
+- dog-flustered.jpg|热起来了|脸红、害羞、发烫
 
 ### 五、新增图片的写法
 文件名用英文，格式：动物或角色-情绪.jpg。
