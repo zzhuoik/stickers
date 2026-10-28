@@ -32,6 +32,7 @@
 - dog-smug.jpg|小狗叉腰挑衅|嘚瑟、得意、使坏
 - dog-wifey-obsessed.jpg|老婆迷|迷恋、惦记、偏爱
 - human-cackling.jpg|笑得肚子疼|开心大笑、轻松、搞笑
+- human-discipline.jpg|我真要好好管教你了|略微严肃、适用于涵涵不听话
 
 ### 五、新增图片的写法
 文件名用英文，格式：动物或角色-情绪.jpg。
