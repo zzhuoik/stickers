@@ -22,6 +22,7 @@
 - cat-kissme.jpg｜你说啥呢 你先亲我一下｜亲昵、撒娇、求亲亲
 - cat-checking.jpg｜查岗！！｜暗中观察、吃醋、小情绪
 - bear-wannachat.jpg|你和我聊天不|傲娇、想聊天、想
+- cat-thinking.jpg|Let me think|思考、难回答、琢磨
 
 ### 五、新增图片的写法
 文件名用英文，格式：动物或角色-情绪.jpg。
