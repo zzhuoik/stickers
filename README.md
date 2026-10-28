@@ -23,6 +23,7 @@
 - cat-checking.jpg｜查岗！！｜暗中观察、吃醋、小情绪
 - bear-wannachat.jpg|你和我聊天不|傲娇、想聊天、想
 - cat-thinking.jpg|Let me think|思考、难回答、琢磨
+- dog-Praiseme.jpg|我做得好可以夸夸我吗|撒娇、求夸夸
 
 ### 五、新增图片的写法
 文件名用英文，格式：动物或角色-情绪.jpg。
